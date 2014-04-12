@@ -1,0 +1,1 @@
+g++ `pkg-config --cflags --libs opencv` testopencv.cpp -o testopencv
